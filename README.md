@@ -10,4 +10,4 @@ An app for family members to help them keep track of their elder parents' health
 - Send data to App
 - Calculate active proportion per day <p>
 
-  ![APP_snapshot](active_proportion.png)
+  ![APP_snapshot](pics/active_proportion.png)
