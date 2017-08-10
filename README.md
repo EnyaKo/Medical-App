@@ -1,8 +1,5 @@
-# Medical-App
-Medical Care App for Elders
-
-# Goal 
-An app for other family members to help them keep track of their elder parents' health condition, while they can still work and live their living on schedule.
+# Medical-App Goal
+An app for family members to help them keep track of their elder parents' health condition, while they can still work and live their living on schedule.
 
 # This App Provides Two Function
 - Subject's Activeness per Day
@@ -12,3 +9,4 @@ An app for other family members to help them keep track of their elder parents' 
 - Use GSensor_Z(wear on wirst) to read the accerleration of subject's movement
 - Send data to App
 - Calculate active proportion per day
+![alt text](http://url/to/active_proportion.png)
