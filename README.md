@@ -8,7 +8,6 @@ An app for family members to help them keep track of their elder parents' health
 # Subject's Activeness per Day
 - Use GSensor_Z(wear on wirst) to read the accerleration of subject's movement
 - Send data to App
-- Calculate active proportion per day
-<p> 
+- Calculate active proportion per day <p>
+
   ![APP_snapshot](active_proportion.png)
-<p>
